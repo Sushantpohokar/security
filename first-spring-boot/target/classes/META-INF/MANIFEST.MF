@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: first-spring-boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sushant
+Implementation-Vendor-Id: com.springboot.project
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/first-spring
+ -boot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
